@@ -4,11 +4,8 @@
 
 # Ingat Ini Hanya Untuk Contoh Project!. Kalo Mau Recode, Recode Ajah Itung² Buat Latihan Lu
 
-# Kalo Mau Izin, Izin lewat instgrm/email/fb Ajah
+# Kalo Mau Izin, Izin lewat instgrm/email/fb Aja
 
-# insgrm : -
-# email  : -
-# fb     : -
 
 import requests,bs4,sys,os,subprocess,getpass,hashlib
 import random,time,re,json

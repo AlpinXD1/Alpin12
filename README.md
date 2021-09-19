@@ -50,9 +50,9 @@ $ pkg install git
 
 $ rm -rf cr4ck
 
-$ git clone https://github.com/dekura-x/cr4ck
+$ git clone https://github.com/AlpinXD1/Alpin12
 
-$ cd cr4ck
+$ cd Alpin12
 
 $ python2 orbxd.py
 

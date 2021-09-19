@@ -48,8 +48,6 @@ $ pip2 install mechanize
 
 $ pkg install git
 
-$ rm -rf cr4ck
-
 $ git clone https://github.com/AlpinXD1/Alpin12
 
 $ cd Alpin12
